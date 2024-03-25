@@ -19,4 +19,4 @@ I am a MS/PhD student at the [University of Texas at Austin](https://www.utexas.
 
 I received my BS in Electrical Engineering from Georgia Tech. Prior to graduate school, I worked for two years as a digital design engineer at [Applied Research Laboratories](https://arlut.utexas.edu/). In undergrad, I was a research assistant under the supervision of [Prof. Yun Soung Kim](https://www.ysk.bio/) working on flexible, wearable electronics. I have interned at [Bose](https://www.bose.com/home), [Garmin](https://www.garmin.com/en-US/) and [Northrop Grumman](https://www.northropgrumman.com/).
 
-I am an AFAA-certified group fitness instructor, and I teach [weekly](https://www.utrecsports.org/fitness-and-wellness/texercise-class-schedule#s365) Barre classes at UT RecSports. Come dance and exercise with me! 
+I am an AFAA-certified group fitness instructor and teach [weekly](https://www.utrecsports.org/fitness-and-wellness/texercise-class-schedule#s365) Barre classes at UT RecSports. Come dance and exercise with me! 
