@@ -21,25 +21,25 @@ cv:
 #    postalCode: CA 94115
 #    countryCode: US
 
-  sections:
-    Education:
-      - institution: University of Texas at Austin
-        location: Austin, TX
-        url: https://www.utexas.edu/
-        area: Electrical and Computer Engineering
-        studyType: PhD
-        start_date: 2022
-        end_date: Present
-        #score: ""
-        #courses: "Theory of Relativity"
-        #highlights:
-        #  - Description 1.
-        #  - Description 2.
-
-      - institution: Georgia Institute of Technology
-        location: Atlanta, GA
-        area: Electrical Engineering
-        studyType: Bachelors
+#  sections:
+#    Education:
+#      - institution: University of Texas at Austin
+#        location: Austin, TX
+#        url: https://www.utexas.edu/
+#        area: Electrical and Computer Engineering
+#        studyType: PhD
+#        start_date: 2022
+#        end_date: Present
+#        #score: ""
+#        #courses: "Theory of Relativity"
+#        #highlights:
+#        #  - Description 1.
+#        #  - Description 2.
+#
+#      - institution: Georgia Institute of Technology
+#        location: Atlanta, GA
+#        area: Electrical Engineering
+#        studyType: Bachelors
         #start_date: 2016
         #end_date: 2020
         #highlights:
