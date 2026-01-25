@@ -22,9 +22,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a PhD student at the [University of Texas at Austin](https://www.utexas.edu/) in the Department of Electrical and Computer Engineering. I am working in the Human Signals Lab under the supervision of [Prof. Edison Thomaz](http://users.ece.utexas.edu/~ethomaz/) and am affiliated with the [6G@UT](http://6g-ut.org/) research center. My research interests are acoustic sensing and audio signal processing for human activity recognition.
+I am a PhD student at the [University of Texas at Austin](https://www.utexas.edu/) in the Department of Electrical and Computer Engineering. I am working in the Human Signals Lab under the supervision of [Prof. Edison Thomaz](http://users.ece.utexas.edu/~ethomaz/) and am affiliated with the [6G@UT](http://6g-ut.org/) research center. 
 
-I am a Fulbright alumna and completed a U.S. Fulbright grant to Switzerland, where I spent a year as a visiting doctoral student at [Idiap Research Institute](https://www.idiap.ch/en). I have also interned at Dolby Laboratories and Bose during my PhD. 
+My research interests are acoustic sensing and audio signal processing for human activity recognition.I completed a U.S. Fulbright grant to Switzerland, where I spent a year as a visiting doctoral student at [Idiap Research Institute](https://www.idiap.ch/en). I have also interned at Dolby Laboratories and Bose during my PhD. 
 
 
 
