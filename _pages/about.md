@@ -6,7 +6,7 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic_az.jpg
+  image: prof_pic_ch.jpg
   image_circular: true # crops the image to make it circular
   
 selected_papers: false # includes a list of papers marked as "selected={true}"
