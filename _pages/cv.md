@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /cv/
-title: Resume
+title: resume
 nav: true
 nav_order: 5
 description:
 ---
 ## Resume
 
-**[Download my resume (PDF)](/assets/pdf/azhang_resume.pdf)**
+<!--**[Download my resume (PDF)](/assets/pdf/azhang_resume.pdf)**-->
 
 <iframe
   src="/assets/pdf/azhang_resume.pdf"
