@@ -1,14 +1,18 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: resume
+title: Resume
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/azhang_resume.pdf # you can also use external links here
-cv_format: pdf
-#cv_format: rendercv # options: rendercv, jsonresume
-description: Resume in PDF.
-
-#toc:
-#  sidebar: left
+description:
 ---
+## Resume
+
+📄 **[Download my resume (PDF)](/assets/pdf/azhang_resume.pdf)**
+
+<iframe
+  src="/assets/pdf/azhang_resume.pdf"
+  width="100%"
+  height="900px"
+  style="border: none;">
+</iframe>
