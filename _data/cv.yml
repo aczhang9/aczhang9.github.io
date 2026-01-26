@@ -1,10 +1,10 @@
 cv:
   name: Alice Zhang
-  label: []
-  email: []
-  location: []
-  image: ""
-  summary: []
+  #label: ""
+  #email: ""
+  #location: ""
+  #image: ""
+  #summary: ""
 
   social_networks: []
   #  - network: X
@@ -28,11 +28,11 @@ cv:
         url: https://www.utexas.edu/
         area: Electrical and Computer Engineering
         studyType: PhD
-        start_date: ""
-        end_date: ""
+        start_date: 2022
+        end_date: Present
         score: ""
         courses: ""
-        highlights: []
+        highlights: ""
 
 
       - institution: Eidgenössische Technische Hochschule
