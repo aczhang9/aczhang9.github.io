@@ -8,7 +8,7 @@ description:
 ---
 ## Resume
 
-📄 **[Download my resume (PDF)](/assets/pdf/azhang_resume.pdf)**
+**[Download my resume (PDF)](/assets/pdf/azhang_resume.pdf)**
 
 <iframe
   src="/assets/pdf/azhang_resume.pdf"
