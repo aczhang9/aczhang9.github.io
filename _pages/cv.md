@@ -6,8 +6,6 @@ nav: true
 nav_order: 5
 description:
 ---
-## Resume
-
 <!--**[Download my resume (PDF)](/assets/pdf/azhang_resume.pdf)**-->
 
 <iframe
