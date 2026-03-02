@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-11'
+  last_updated: '2026-03-02'
 papers:
   MzGlR5UAAAAJ:DXE8ND7PrJAC:
     citations: 0
@@ -15,10 +15,10 @@ papers:
     year: '2025'
   MzGlR5UAAAAJ:Vr2j17o0sqMC:
     citations: 1
-    title: 'Improving Audio Classification with Low-Sampled Microphone Input: An Empirical Study Using Model Self-Distillation'
+    title: 'Improving Audio Classification with Low-Sampled Microphone Input: An Empirical Study Using Model Self-Distillation.'
     year: '2024'
   MzGlR5UAAAAJ:lg2tdxc6qMwC:
-    citations: 14
+    citations: 15
     title: Automated face-to-face conversation detection on a commodity smartwatch with acoustic sensing
     year: '2023'
   MzGlR5UAAAAJ:x21FZCSn4ZoC:
