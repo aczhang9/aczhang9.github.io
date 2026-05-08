@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-27'
+  last_updated: '2026-05-08'
 papers:
   MzGlR5UAAAAJ:DXE8ND7PrJAC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Assessment of Personality Dimensions Across Situations Using Conversational Speech
     year: '2025'
   MzGlR5UAAAAJ:QsKbpXNoaWkC:
-    citations: 2
+    citations: 4
     title: Transformation of audio embeddings into interpretable, concept-based representations
     year: '2025'
   MzGlR5UAAAAJ:Vr2j17o0sqMC:
