@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-06-12'
 papers:
   MzGlR5UAAAAJ:DXE8ND7PrJAC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Assessment of Personality Dimensions Across Situations Using Conversational Speech
     year: '2025'
   MzGlR5UAAAAJ:QsKbpXNoaWkC:
-    citations: 4
+    citations: 5
     title: Transformation of audio embeddings into interpretable, concept-based representations
     year: '2025'
   MzGlR5UAAAAJ:Vr2j17o0sqMC:
@@ -18,7 +18,7 @@ papers:
     title: 'Improving Audio Classification with Low-Sampled Microphone Input: An Empirical Study Using Model Self-Distillation.'
     year: '2024'
   MzGlR5UAAAAJ:lg2tdxc6qMwC:
-    citations: 17
+    citations: 18
     title: Automated face-to-face conversation detection on a commodity smartwatch with acoustic sensing
     year: '2023'
   MzGlR5UAAAAJ:x21FZCSn4ZoC:
