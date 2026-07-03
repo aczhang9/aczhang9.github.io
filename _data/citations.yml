@@ -1,14 +1,10 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-03'
 papers:
   MzGlR5UAAAAJ:DXE8ND7PrJAC:
     citations: 0
     title: Detecting inter-person conversations using a smart wearable device
     year: '2024'
-  MzGlR5UAAAAJ:EaFouW7jFu4C:
-    citations: 0
-    title: Assessment of Personality Dimensions Across Situations in Dyadic Role-Play Scenarios
-    year: '2025'
   MzGlR5UAAAAJ:QsKbpXNoaWkC:
     citations: 5
     title: Transformation of audio embeddings into interpretable, concept-based representations
@@ -21,6 +17,10 @@ papers:
     citations: 18
     title: Automated face-to-face conversation detection on a commodity smartwatch with acoustic sensing
     year: '2023'
+  MzGlR5UAAAAJ:rCNdntzdTkkC:
+    citations: 0
+    title: Assessment of Personality Dimensions Across Situations in Dyadic Role-Play Scenarios
+    year: '2026'
   MzGlR5UAAAAJ:x21FZCSn4ZoC:
     citations: 1
     title: Detecting In-Person Conversations in Noisy Real-World Environments with Smartwatch Audio and Motion Sensing
