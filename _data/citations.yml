@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-17'
 papers:
   MzGlR5UAAAAJ:DXE8ND7PrJAC:
     citations: 0
     title: Detecting inter-person conversations using a smart wearable device
     year: '2024'
   MzGlR5UAAAAJ:QsKbpXNoaWkC:
-    citations: 5
+    citations: 6
     title: Transformation of audio embeddings into interpretable, concept-based representations
     year: '2025'
   MzGlR5UAAAAJ:Vr2j17o0sqMC:
@@ -14,7 +14,7 @@ papers:
     title: 'Improving Audio Classification with Low-Sampled Microphone Input: An Empirical Study Using Model Self-Distillation.'
     year: '2024'
   MzGlR5UAAAAJ:lg2tdxc6qMwC:
-    citations: 18
+    citations: 19
     title: Automated face-to-face conversation detection on a commodity smartwatch with acoustic sensing
     year: '2023'
   MzGlR5UAAAAJ:rCNdntzdTkkC:
